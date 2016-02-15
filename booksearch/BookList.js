@@ -44,7 +44,9 @@ var styles = StyleSheet.create({
     },
 
     listView: {
-        backgroundColor: '#F5FCFF'
+        backgroundColor: '#F5FCFF',
+        marginTop:64,
+        marginBottom:44,
     },
     loading: {
         flex: 1,
